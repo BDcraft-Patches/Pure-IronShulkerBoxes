@@ -1,5 +1,5 @@
 # PureBDcraft texture patch for Iron Shulker Boxes
-[BDcraft.net texture patch thread](https://bdcraft.net/community/viewtopic.php?t=).
+[BDcraft.net texture patch thread](https://bdcraft.net/community/viewtopic.php?t=7684).
 
 [Mod page](https://www.curseforge.com/minecraft/mc-mods/iron-shulker-boxes).
 
